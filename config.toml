@@ -1,0 +1,197 @@
+baseURL = "https://3dprintbone.com/"
+languageCode = "en-us"
+title = "3D Print Bone"
+theme = "printwire"
+
+[params]
+tagline       = "Precision 3D bioprinting of bone scaffolds, orthopaedic implants, and osseous constructs for regenerative medicine and research."
+description   = "3D Print Bone delivers authoritative coverage of bone bioprinting — from hydroxyapatite scaffolds to load-bearing orthopaedic constructs and craniofacial reconstruction."
+keywords      = "bone 3D printing, bone scaffold, hydroxyapatite, orthopaedic bioprinting, bone regeneration, PEEK implant, craniofacial reconstruction"
+logoEmoji     = "🦴"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#0e7490"
+colorPrimaryDark  = "#155e75"
+colorPrimaryLight = "#22a3bf"
+colorBgDark       = "#06080f"
+colorBgSection    = "#08101a"
+colorBgCard       = "#0d1520"
+colorBgCardHover  = "#111d2b"
+colorBorder       = "rgba(14,116,144,0.22)"
+colorBorderLight  = "rgba(14,116,144,0.10)"
+
+fontPrimary   = "Playfair+Display"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = [
+  "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1920&q=80",
+  "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1920&q=80",
+]
+
+heroEyebrow  = "Orthopaedic Bioprinting"
+heroTitle    = "3D Print <em>Bone</em>"
+heroSubtitle = "Precision 3D bioprinting of bone scaffolds, orthopaedic implants, and osseous constructs for regenerative medicine and research."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1920&q=80"
+
+overviewLabel   = "Scaffold Technology"
+overviewTitle   = "Bone Scaffold Engineering"
+overviewText    = "From porous hydroxyapatite scaffolds for trabecular bone to dense cortical constructs — matched to patient anatomy using CT-derived geometry."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Industries We Serve"
+servicesLabel    = "What We Do"
+servicesTitle    = "3D Print Bone Services"
+servicesSubtitle = "Precision 3D bioprinting of bone scaffolds, orthopaedic implants, and osseous constructs for regenerative medicine and research."
+clusterLabel = "PrintWire Network"
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Precision 3D bioprinting of bone scaffolds, orthopaedic implants, and osseous constructs for regenerative medicine and research."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 95
+suffix = "%"
+label  = "Hydroxyapatite Purity"
+
+[[params.stats]]
+count  = 500
+suffix = "µm"
+label  = "Min Pore Size"
+
+[[params.stats]]
+count  = 30
+suffix = "%+"
+label  = "Market CAGR"
+
+[[params.stats]]
+count  = 10
+suffix = "B+"
+label  = "Market by 2030 (USD)"
+
+
+[[params.applications]]
+title       = "Orthopaedic Implants"
+description = "Load-bearing bone scaffolds with controlled porosity for osseointegration."
+image       = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1920&q=80"
+
+[[params.applications]]
+title       = "Craniofacial Reconstruction"
+description = "Patient-specific skull and facial bone constructs from CT data."
+image       = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1920&q=80"
+
+[[params.applications]]
+title       = "Dental & Maxillofacial"
+description = "Custom bone grafts for dental implant sites and jaw reconstruction."
+image       = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1920&q=80"
+
+[[params.applications]]
+title       = "Spinal & Vertebral"
+description = "Interbody fusion devices and vertebral body constructs for spinal repair."
+image       = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🦴"
+title       = "Bone Scaffold Printing"
+description = "Porous hydroxyapatite and beta-TCP scaffolds with controlled porosity (60–80%) for bone ingrowth and vascularisation."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Patient-Specific Implants"
+description = "CT-to-print workflow for anatomically precise bone constructs — craniofacial, spinal, and orthopaedic applications."
+
+[[params.servicesPreview]]
+icon        = "⬡"
+title       = "Composite Bone Materials"
+description = "PEEK-HA composites and bioceramic blends that match the mechanical properties of cortical and trabecular bone."
+
+[[params.servicesPreview]]
+icon        = "🧪"
+title       = "In Vitro Bone Models"
+description = "3D osteoblast-seeded constructs for drug testing, tumour modelling, and osteoporosis research."
+
+
+[[params.services]]
+name        = "Bone Scaffold Printing"
+description = "Porous hydroxyapatite and beta-TCP scaffolds with controlled porosity (60–80%) for bone ingrowth and vascularisation."
+icon        = "🦴"
+image       = "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80"
+
+[[params.services]]
+name        = "Patient-Specific Implants"
+description = "CT-to-print workflow for anatomically precise bone constructs — craniofacial, spinal, and orthopaedic applications."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80"
+
+[[params.services]]
+name        = "Composite Bone Materials"
+description = "PEEK-HA composites and bioceramic blends that match the mechanical properties of cortical and trabecular bone."
+icon        = "⬡"
+image       = "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80"
+
+[[params.services]]
+name        = "In Vitro Bone Models"
+description = "3D osteoblast-seeded constructs for drug testing, tumour modelling, and osteoporosis research."
+icon        = "🧪"
+image       = "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprinttissue.com"
+url         = "https://3dprinttissue.com"
+description = "Bioprinting & tissue engineering"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintceramic.com"
+url         = "https://3dprintceramic.com"
+description = "Ceramic additive manufacturing"
+
+[[params.clusterLinks]]
+name        = "3dprintfood.com"
+url         = "https://3dprintfood.com"
+description = "Food bioprinting"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
